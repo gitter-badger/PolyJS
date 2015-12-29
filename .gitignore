@@ -1,0 +1,10 @@
+# Ignoring PhpStorm 10 project dir.
+.idea
+
+# Modules and dependencies.
+node_modules
+bower_components
+vendor
+
+# Mac OS X annoying file.
+.DS_Store
