@@ -1,0 +1,15 @@
+# Ignoring PhpStorm 10 project dir.
+.idea
+
+# Ignoring some Continuous Integration configuration files.
+appveyor.yml
+circle.yml
+wercker.yml
+
+# Modules and dependencies.
+node_modules
+bower_components
+vendor
+
+# Mac OS X annoying file.
+.DS_Store
