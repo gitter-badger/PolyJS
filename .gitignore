@@ -8,3 +8,6 @@ vendor
 
 # Mac OS X annoying file.
 .DS_Store
+
+# Temporal dir for builds.
+tmp
