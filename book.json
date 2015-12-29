@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "pdf-styling"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
